@@ -22,7 +22,7 @@ p = {
     'num_classes': 2,
     'img_shape': (160, 576),
     'batch_size': 5,
-    'epochs': 32,
+    'epochs': 60,
     'learning_rate': 0.00005,
     'keep_prob': 0.75
 }
